@@ -1,0 +1,14 @@
+C:\Kali\ExamPrep\Task2\SoftUniBazar\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.deps.json
+C:\Kali\ExamPrep\Task2\SoftUniBazar\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.runtimeconfig.json
+C:\Kali\ExamPrep\Task2\SoftUniBazar\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.dll
+C:\Kali\ExamPrep\Task2\SoftUniBazar\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.pdb
+C:\Kali\ExamPrep\Task2\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.csproj.AssemblyReference.cache
+C:\Kali\ExamPrep\Task2\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kali\ExamPrep\Task2\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.AssemblyInfoInputs.cache
+C:\Kali\ExamPrep\Task2\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.AssemblyInfo.cs
+C:\Kali\ExamPrep\Task2\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.csproj.CoreCompileInputs.cache
+C:\Kali\ExamPrep\Task2\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.dll
+C:\Kali\ExamPrep\Task2\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\refint\SoftUniBazar.Data.dll
+C:\Kali\ExamPrep\Task2\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.pdb
+C:\Kali\ExamPrep\Task2\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.genruntimeconfig.cache
+C:\Kali\ExamPrep\Task2\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\ref\SoftUniBazar.Data.dll
